@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" width="280" height="220" fill="none" stroke-linecap="square">
+  <!-- Mazgas A: šildymo kolektorius su uždaromąja armatūra. Dekoratyvus, be matmenų skaičių. -->
+  <g stroke="#185086" stroke-width="0.75" stroke-dasharray="10 3 2 3" opacity="0.8">
+    <path d="M18 76H244"/>
+    <path d="M55 12V76M95 76V188M140 76V188M185 76V188"/>
+  </g>
+  <g stroke="#111418" stroke-opacity="0.55">
+    <path d="M30 70H230M30 82H230"/>
+    <path d="M30 64V88M230 64V88" stroke-width="2"/>
+    <path d="M50 18V70M60 18V70"/>
+    <path d="M45 18l3-4 4 8 4-8 4 8 3-4"/>
+    <path d="M45 38H65M45 42H65"/>
+    <path d="M90 82V110M100 82V110M90 130V178M100 130V178"/>
+    <path d="M135 82V110M145 82V110M135 130V178M145 130V178"/>
+    <path d="M180 82V110M190 82V110M180 130V178M190 130V178"/>
+    <path d="M86 158H104M86 162H104M131 158H149M131 162H149M176 158H194M176 162H194"/>
+    <path d="M85 178l3 4 4-8 4 8 4-8 3 4M130 178l3 4 4-8 4 8 4-8 3 4M175 178l3 4 4-8 4 8 4-8 3 4"/>
+  </g>
+  <g stroke="#185086" stroke-width="1.25">
+    <path d="M86 110H104L86 130H104Z"/>
+    <path d="M131 110H149L131 130H149Z"/>
+    <path d="M176 110H194L176 130H194Z"/>
+    <path d="M95 120H111M111 114V126M140 120H156M156 114V126M185 120H201M201 114V126"/>
+  </g>
+  <g stroke="#111418" stroke-opacity="0.4">
+    <path d="M95 192V204M140 192V204M185 192V204" stroke-dasharray="2 2"/>
+    <path d="M89 200H191"/>
+    <path d="M91 204l8-8M136 204l8-8M181 204l8-8"/>
+  </g>
+  <g stroke="#185086">
+    <path d="M232 140L206 122"/>
+    <circle cx="206" cy="122" r="2" fill="#185086"/>
+    <circle cx="248" cy="152" r="17" fill="#f5f3ef"/>
+    <path d="M231 152H265"/>
+  </g>
+  <g fill="#185086" font-family="IBM Plex Mono, ui-monospace, Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="248" y="148" font-size="12">A</text>
+    <text x="248" y="165" font-size="9">01</text>
+  </g>
+</svg>

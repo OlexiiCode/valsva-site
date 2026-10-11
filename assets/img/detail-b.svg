@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" width="280" height="220" fill="none" stroke-linecap="square">
+  <!-- Mazgas B: vėdinimo ortakis su alkūne ir grotelėmis. Dekoratyvus, be matmenų skaičių. -->
+  <g stroke="#185086" stroke-width="0.75" stroke-dasharray="10 3 2 3" opacity="0.8">
+    <path d="M10 80H150A60 60 0 0 1 210 140V212"/>
+  </g>
+  <g stroke="#111418" stroke-opacity="0.55">
+    <path d="M24 56V68l-7 6 14 12-7 6v12"/>
+    <path d="M24 60H150M24 100H150"/>
+    <path d="M150 60A80 80 0 0 1 230 140M150 100A40 40 0 0 1 190 140"/>
+    <path d="M190 140V180M230 140V180"/>
+    <path d="M68 54V106M72 54V106M118 54V106M122 54V106"/>
+    <path d="M148 54V106M152 54V106"/>
+    <path d="M184 138H236M184 142H236"/>
+    <path d="M182 180H238V196H182Z"/>
+    <path d="M186 185H234M186 190H234"/>
+  </g>
+  <g fill="#185086">
+    <path d="M44 76l8 4-8 4z"/>
+    <path d="M94 76l8 4-8 4z"/>
+    <path d="M206 158l4 8 4-8z"/>
+  </g>
+  <g stroke="#111418" stroke-opacity="0.4">
+    <path d="M70 50V32M120 50V32" stroke-dasharray="2 2"/>
+    <path d="M64 36H126"/>
+    <path d="M66 40l8-8M116 40l8-8"/>
+  </g>
+  <g stroke="#185086">
+    <path d="M58 150L72 110"/>
+    <circle cx="72" cy="110" r="2" fill="#185086"/>
+    <circle cx="50" cy="166" r="17" fill="#f5f3ef"/>
+    <path d="M33 166H67"/>
+  </g>
+  <g fill="#185086" font-family="IBM Plex Mono, ui-monospace, Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="50" y="162" font-size="12">B</text>
+    <text x="50" y="179" font-size="9">03</text>
+  </g>
+</svg>

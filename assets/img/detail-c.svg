@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" width="280" height="220" fill="none" stroke-linecap="square">
+  <!-- Mazgas C: vandentiekio stovas su atšaka, rutuliniu ventiliu ir perdangos įvore. Dekoratyvus, be matmenų skaičių. -->
+  <defs>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path d="M0 0V6" stroke="#111418" stroke-opacity="0.3"/>
+    </pattern>
+  </defs>
+  <g stroke="#185086" stroke-width="0.75" stroke-dasharray="10 3 2 3" opacity="0.8">
+    <path d="M100 8V212M100 70H258"/>
+  </g>
+  <rect x="10" y="150" width="76" height="16" fill="url(#hatch)"/>
+  <rect x="114" y="150" width="156" height="16" fill="url(#hatch)"/>
+  <g stroke="#111418" stroke-opacity="0.55">
+    <path d="M10 150H86M114 150H270M10 166H86M114 166H270"/>
+    <path d="M88 144V172M112 144V172"/>
+    <path d="M95 16V204M105 16V65M105 75V204"/>
+    <path d="M90 16l3-4 4 8 4-8 4 8 3-4M90 204l3 4 4-8 4 8 4-8 3 4"/>
+    <path d="M105 65H150M105 75H150M170 65H250M170 75H250"/>
+    <path d="M250 60V80" stroke-width="2"/>
+  </g>
+  <g stroke="#185086" stroke-width="1.25">
+    <path d="M150 61L170 79V61L150 79Z"/>
+    <path d="M160 70V50M152 50H168"/>
+  </g>
+  <circle cx="160" cy="70" r="3" fill="#185086"/>
+  <path d="M210 66l8 4-8 4z" fill="#185086"/>
+  <g stroke="#111418" stroke-opacity="0.4">
+    <path d="M160 46V28" stroke-dasharray="2 2"/>
+    <path d="M94 32H166"/>
+    <path d="M96 36l8-8M156 36l8-8"/>
+  </g>
+  <g stroke="#185086">
+    <path d="M210 108L174 82"/>
+    <circle cx="174" cy="82" r="2" fill="#185086"/>
+    <circle cx="226" cy="118" r="17" fill="#ebe7e0"/>
+    <path d="M209 118H243"/>
+  </g>
+  <g fill="#185086" font-family="IBM Plex Mono, ui-monospace, Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="226" y="114" font-size="12">C</text>
+    <text x="226" y="131" font-size="9">04</text>
+  </g>
+</svg>

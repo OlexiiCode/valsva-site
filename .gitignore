@@ -1,0 +1,8 @@
+# Рабочие материалы — хранятся только локально, в репозиторий не попадают
+CLAUDE.md
+content/
+docs/
+source/
+tools/
+.claude/
+.DS_Store
